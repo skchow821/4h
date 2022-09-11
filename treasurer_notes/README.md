@@ -7,7 +7,7 @@
 * Report to 4-H YDP county staff
 
 ## Annual Budgeting
-* Form 8.4 (Club Budget)
+* [Form 8.4](#forms) (Club Budget)
 * Record beginning balance (June 30th of previous year)
 * Expenses
 	* Utilities
@@ -32,7 +32,7 @@
 		* Acknowledge gift w/ donation receipt
 		* Deposit, record in ledger
 * End of Month:
-	* Review Treasurer's checklist (pg.39-40 of 4-H Treasurer's Manual)
+	* Review [Treasurer's checklist](#manual) (pg.39-40 of 4-H Treasurer's Manual)
 	* With Bank Statements from 4-H YDP county staff
 	* Use [Form 8.1](#forms) to fill out the following:
 		* [Form 6.1](#forms) (Monthly report)
@@ -41,7 +41,7 @@
 		* [Form 8.4](#forms) (Optional: Club budget - to date)
 	* Review receipts, voided checks, deposit slips in google drive
 * Club Meeting:
-	* Present Form 6.1 (Monthly report) at general meeting 
+	* Present [Form 6.1](#forms) (Monthly report) at general meeting 
 	* Get general membership approval for expense requests not budgeted, or over budget.
 
 ## Mid-year check
@@ -61,7 +61,7 @@
 
 
 ## Reference
-* [4-H Treasurer's Manual](https://4h.ucanr.edu/files/14647.pdf)
+* <a name="manual"/>[[4-H Treasurer's Manual](https://4h.ucanr.edu/files/14647.pdf)
 * <a name="forms"/>[4-H Treasurer's Forms, Excel](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fucanr.edu%2Fsites%2FUC4-H%2Ffiles%2F23120.xls&wdOrigin=BROWSELINK)
 * <a name="pdfs"/>[4-H Treasurer's Forms, PDFs](https://4h.ucanr.edu/Programs/Clubs/Officers/)
 
